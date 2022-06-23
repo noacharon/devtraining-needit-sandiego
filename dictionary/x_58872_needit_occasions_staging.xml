@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="occasions_staging" max_length="40" name="x_58872_needit_occasions_staging" sizeclass="12" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=0.03" label="0.03" max_length="40" name="u_0_03" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=0.04" label="0.04" max_length="40" name="u_0_04" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=855.92" label="855.92" max_length="40" name="u_855_92" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=F" label="F" max_length="40" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=G" label="G" max_length="40" name="u_g" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Rates:" label="Rates:" max_length="40" name="u_rates_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Total $:" label="Total $:" max_length="40" name="u_total___" type="string"/>
+    </element>
+</database>
